@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://fthcse.GitHub.io</id>
+    <id>https://fthcse.github.io</id>
     <title>FTHCSE</title>
-    <updated>2022-02-16T06:56:48.444Z</updated>
+    <updated>2022-02-16T07:00:32.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://fthcse.GitHub.io"/>
-    <link rel="self" href="https://fthcse.GitHub.io/atom.xml"/>
+    <link rel="alternate" href="https://fthcse.github.io"/>
+    <link rel="self" href="https://fthcse.github.io/atom.xml"/>
     <subtitle>2022虎虎生威</subtitle>
-    <logo>https://fthcse.GitHub.io/images/avatar.png</logo>
-    <icon>https://fthcse.GitHub.io/favicon.ico</icon>
+    <logo>https://fthcse.github.io/images/avatar.png</logo>
+    <icon>https://fthcse.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, FTHCSE</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://fthcse.GitHub.io/post/hello-gridea/</id>
-        <link href="https://fthcse.GitHub.io/post/hello-gridea/">
+        <id>https://fthcse.github.io/post/hello-gridea/</id>
+        <link href="https://fthcse.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
